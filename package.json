@@ -1,14 +1,13 @@
 {
-  "name": "razzle-examples-with-typescript",
-  "version": "4.2.15",
+  "name": "cripto-teste",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "start:tsc": "tsc -b -w --preserveWatchOutput",
     "start:dev": "concurrently \"npm run start:tsc\" \"razzle start\"",
-    "start:build": "tsc -b && razzle build",
+    "start:build:prod": "tsc -b && razzle build",
     "start:test:razzle": "razzle test --env=jsdom",
-    "start:test:jest": "jest",
-    "start:prod": "NODE_ENV=production node build/server.js"
+    "start:prod:ssr": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
