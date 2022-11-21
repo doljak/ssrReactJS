@@ -12,8 +12,7 @@ class Home extends React.Component<{}, {}> {
           <h2>Welcome to Razzle</h2>
         </div>
         <p className="Home-intro">
-          To get started, edit <code>src/App.tsx</code> or{' '}
-          <code>src/Home.tsx</code> and save to reload.
+          Te amo Mo!
         </p>
         <ul className="Home-resources">
           <li>

@@ -21,6 +21,6 @@ export const presets = {
   setupFilesAfterEnv: ["<rootDir>/.jest/setup-tests.ts"],
   transform: {
     "\\.tsx?$": "ts-jest",
-    "\\.jsx?$": "babel-jest",
+    //"\\.jsx?$": "babel-jest",
   },
 };
