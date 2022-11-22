@@ -1,15 +1,14 @@
-import React from 'react';
-import { render } from '@testing-library/react';
-import { MemoryRouter } from 'react-router-dom';
-import App from './App';
+import React from "react";
+import { render } from "@testing-library/react";
+import { MemoryRouter } from "react-router-dom";
+import App from "./App";
 
-test('renders learn react link', () => {
-  console.log('oi')
+test("renders App", () => {
   const { getByText } = render(
     <MemoryRouter>
       <App />
-    </MemoryRouter>
+    </MemoryRouter>,
   );
-  const linkElement = getByText(/Welcome to Razzle/i);
+  const linkElement = getByText(/React Bootstrap/i);
   expect(linkElement).toBeInTheDocument();
 });

@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import './todo.css';
+import "./todo.scss";
 
 class Todo extends React.Component<{}, {}> {
   public render() {

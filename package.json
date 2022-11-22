@@ -2,6 +2,7 @@
   "name": "cripto-teste",
   "version": "0.0.0",
   "license": "MIT",
+  "type": "commonjs",
   "scripts": {
     "start:tsc": "tsc -b -w --preserveWatchOutput",
     "start:dev": "concurrently \"npm run start:tsc\" \"razzle start\"",
@@ -10,8 +11,11 @@
     "start:prod:ssr": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "express": "^4.17.1",
+    "razzle-plugin-scss": "^4.2.18",
     "react": "^17.0.1",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.1.2 "
   },

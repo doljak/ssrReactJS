@@ -1,0 +1,11 @@
+@import "./core/styles/globals";
+@import "./core/styles/variables";
+@import "./core/styles/mixins";
+
+@import "bootstrap/dist/css/bootstrap.min.css";
+* {
+  font-size: 16px;
+}
+body {
+  background-color: #fff;
+}

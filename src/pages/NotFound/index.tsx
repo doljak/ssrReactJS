@@ -1,7 +1,6 @@
-import React from 'react';
-import logo from './react.svg';
+import React from "react";
 
-import './NotFound.css';
+import "./NotFound.scss";
 
 class Home extends React.Component<{}, {}> {
   public render() {

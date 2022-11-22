@@ -1,10 +1,12 @@
-import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import React from "react";
+import { Route, Switch } from "react-router-dom";
 
-import './App.css';
-import Todo from './todo';
-import Home from './pages/Home';
-import NotFound from './pages/NotFound';
+import Todo from "./todo";
+import Home from "./pages/Home";
+import NotFound from "./pages/NotFound";
+
+import "./App.scss";
+import "./styles.scss";
 
 const App = () => (
   <Switch>

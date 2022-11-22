@@ -1,31 +1,19 @@
-import React from 'react';
-import logo from './react.svg';
+import React from "react";
 
-import './Home.css';
+import Container from "react-bootstrap/Container";
+import Navbar from "react-bootstrap/Navbar";
+
+import "./Home.scss";
 
 class Home extends React.Component<{}, {}> {
   public render() {
-    return (
-      <div className="Home">
-        <div className="Home-header">
-          <h2>Welcome to Razzle</h2>
-        </div>
-        <p className="Home-intro">
-          Te amo Mo!
-        </p>
-        <ul className="Home-resources">
-          <li>
-            <a href="https://github.com/jaredpalmer/razzle">Docs</a>
-          </li>
-          <li>
-            <a href="https://github.com/jaredpalmer/razzle/issues">Issues</a>
-          </li>
-          <li>
-            <a href="https://palmer.chat">Community Slack</a>
-          </li>
-        </ul>
-      </div>
-    );
+    return [
+      <Navbar bg="dark" variant="dark">
+        <Container>
+          <Navbar.Brand href="#home">React Bootstrap</Navbar.Brand>
+        </Container>
+      </Navbar>,
+    ];
   }
 }
 
