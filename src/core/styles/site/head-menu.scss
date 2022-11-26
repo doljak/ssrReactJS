@@ -1,0 +1,79 @@
+@import "../variables";
+
+.header-container {
+  background-color: $yellow;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+
+  .container {
+    position: relative;
+  }
+
+  .logo {
+    max-width: 8rem;
+  }
+  .dropdown-toggle,
+  .dropdown-toggle:hover {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 0.8rem;
+    font-weight: normal;
+  }
+
+  .col {
+    flex: none;
+    width: 6rem;
+    max-width: 6rem;
+    padding-left: 0;
+
+    &:nth-child(1) {
+      width: 9rem;
+      max-width: 9rem;
+    }
+
+    > button,
+    > button:hover {
+      background: $red;
+      padding: 0.1rem 0.3rem;
+      border: none;
+      border-radius: 0.2rem;
+      color: white;
+      font-size: 0.8rem;
+      font-weight: bolder;
+      position: relative;
+      box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 50px;
+    }
+
+    > button:after {
+      border: 10px solid transparent;
+      border-top-color: $red;
+      content: "";
+      bottom: -15px;
+      left: 38%;
+      position: absolute;
+    }
+  }
+
+  .col-md-4 {
+    position: absolute;
+    right: 0px;
+    justify-content: end;
+    display: flex;
+
+    button {
+      font-size: 0.8rem;
+
+      :last-child {
+        padding: 0.5rem 1rem;
+      }
+    }
+  }
+}
+
+@media screen AND (max-width: 560px) {
+  .header-container .col-md-4 {
+    top: 3rem;
+  }
+}

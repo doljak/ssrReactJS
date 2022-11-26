@@ -1,5 +1,9 @@
+@import "../variables";
+
 .NotFound {
   text-align: center;
+  background-color: $yellow;
+  height: 100vh;
 
   .NotFound-header {
     background-color: #222;

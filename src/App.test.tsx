@@ -9,6 +9,6 @@ test("renders App", () => {
       <App />
     </MemoryRouter>,
   );
-  const linkElement = getByText(/React Bootstrap/i);
+  const linkElement = getByText(/individuals/i);
   expect(linkElement).toBeInTheDocument();
 });
