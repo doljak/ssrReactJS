@@ -23,7 +23,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "beb0210ebaef875dd154";
+/******/ 	var hotCurrentHash = "dcdd560cbdf444274300";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1378,6 +1378,17 @@ const App = () => __jsx(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Switch"],
 
 /***/ }),
 
+/***/ "./src/assets/business-insider-gray.png":
+/*!**********************************************!*\
+  !*** ./src/assets/business-insider-gray.png ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAoCAMAAAAL325tAAAAQlBMVEUAAABtbW1sbGxra2ttbW1sbGxsbGxsbGxwcHBtbW1qampsbGxubm5ubm5tbW1tbW1ra2tsbGxsbGxubm5tbW1tbW1g1LJqAAAAFXRSTlMA378gYICgQBDvMFDPf6+QcG/PT7C1OCtlAAADV0lEQVRYw+2X27qjIAyFDWfEQ9s9ef9XnUZIYlvUft9czl431UDWLzSIDMmS0iDiG2rRYHEx6Z20aEx7W1aStme2HVSja24BN0GwLRXR1yuHyDGDJDO2ZIPQroJ4RsRYrwCbXEMvleC454SkYBlOjekIbtnOfMAN2Cu43nPHpkDwHGMsgZkdOLXZYXTQgSPYT/gjbkpss9ohFYOckksitw0OLTYdwR885NKBM30PN4OKRlcvbvWHhkxKkeH824WrWw9O9Gu4CnHlS4EC/jmZ9jkdwSET/QR+o9p6Sc5O4dk5dzeIYwcuJZJD7MONo7G/whFIoRU7FdxCPLFFCGODN7njpVaA10oHTv3y+FntMn77lu1rq61weIoMOnDOd5vB3IVX+h4OnrQbrKlLi93C5ubkP7cTQnqF3wguijRFsQev9Hv3P1deJtqLW05ScKUlJ6lGr3DucevDiY59uOIzVbRqRfwReOQnA5ykLF/zM4YunOincO2qssRj+MzJa3uKEflRg5Vq6MGF3oe7OqbE4aW6lTry7J8yiCCPhCGWOSOOQrjHeAdE24Ez46PgfE33CM9sN+nMLvfNPltdanmUt0KTb4FFAz240Psbi0eSVvtj17zCpoevo9Id1ESduS3BFL4PYORqkV6e1wI0/ewXGtzY3ZNbZvuOrE2fgSulazv98PjVr/5XWd2Bd2s+mJU3IpMRp8BNTt85gJvystvwq9iRX2XTnC7hAYQOHJyxyXbgwrJncBKkSzjC+AaPiJOjF/wHnL+ViwfcbYhx06hw6rJQ0iUccxH46+buUgduJM+/vfzVURqu4YjuHc4TdgxPgPkcHr6BZ0Cc98aFj2p9uG6I8d9HDrbS1XhC+tftOXxsE2a0OvfwtCIuX8CHRtcpDXy2PIFbCh7ANXINH9L0RLExya7Ah6PDkQs8u03pDW7i8AW8naunzEH54g19uHyYHf3nMQJHr+D6vApn2w5cGfa44MaM6/fwwQtc5y8fwyP37sMpZ/4WTnQOOnCbPYM68EQfvPYMTnbuG7jQ9VRgDFVc/ITzcU+sDUVIQeHtQziP38OHWw3aVq+59Jaa1PLJrsbvQLAdeNJz5RhHjfOlLd7fo4a955ub37R/A9WIOj5z+cPZF+n2FwXeT6XmWLj3AAAAAElFTkSuQmCC"
+
+/***/ }),
+
 /***/ "./src/assets/business-insider.png":
 /*!*****************************************!*\
   !*** ./src/assets/business-insider.png ***!
@@ -1385,7 +1396,18 @@ const App = () => __jsx(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Switch"],
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAoCAMAAAAL325tAAAAQlBMVEUAAABtbW1sbGxra2ttbW1sbGxsbGxsbGxwcHBtbW1qampsbGxubm5ubm5tbW1tbW1ra2tsbGxsbGxubm5tbW1tbW1g1LJqAAAAFXRSTlMA378gYICgQBDvMFDPf6+QcG/PT7C1OCtlAAADV0lEQVRYw+2X27qjIAyFDWfEQ9s9ef9XnUZIYlvUft9czl431UDWLzSIDMmS0iDiG2rRYHEx6Z20aEx7W1aStme2HVSja24BN0GwLRXR1yuHyDGDJDO2ZIPQroJ4RsRYrwCbXEMvleC454SkYBlOjekIbtnOfMAN2Cu43nPHpkDwHGMsgZkdOLXZYXTQgSPYT/gjbkpss9ohFYOckksitw0OLTYdwR885NKBM30PN4OKRlcvbvWHhkxKkeH824WrWw9O9Gu4CnHlS4EC/jmZ9jkdwSET/QR+o9p6Sc5O4dk5dzeIYwcuJZJD7MONo7G/whFIoRU7FdxCPLFFCGODN7njpVaA10oHTv3y+FntMn77lu1rq61weIoMOnDOd5vB3IVX+h4OnrQbrKlLi93C5ubkP7cTQnqF3wguijRFsQev9Hv3P1deJtqLW05ScKUlJ6lGr3DucevDiY59uOIzVbRqRfwReOQnA5ykLF/zM4YunOincO2qssRj+MzJa3uKEflRg5Vq6MGF3oe7OqbE4aW6lTry7J8yiCCPhCGWOSOOQrjHeAdE24Ez46PgfE33CM9sN+nMLvfNPltdanmUt0KTb4FFAz240Psbi0eSVvtj17zCpoevo9Id1ESduS3BFL4PYORqkV6e1wI0/ewXGtzY3ZNbZvuOrE2fgSulazv98PjVr/5XWd2Bd2s+mJU3IpMRp8BNTt85gJvystvwq9iRX2XTnC7hAYQOHJyxyXbgwrJncBKkSzjC+AaPiJOjF/wHnL+ViwfcbYhx06hw6rJQ0iUccxH46+buUgduJM+/vfzVURqu4YjuHc4TdgxPgPkcHr6BZ0Cc98aFj2p9uG6I8d9HDrbS1XhC+tftOXxsE2a0OvfwtCIuX8CHRtcpDXy2PIFbCh7ANXINH9L0RLExya7Ah6PDkQs8u03pDW7i8AW8naunzEH54g19uHyYHf3nMQJHr+D6vApn2w5cGfa44MaM6/fwwQtc5y8fwyP37sMpZ/4WTnQOOnCbPYM68EQfvPYMTnbuG7jQ9VRgDFVc/ITzcU+sDUVIQeHtQziP38OHWw3aVq+59Jaa1PLJrsbvQLAdeNJz5RhHjfOlLd7fo4a955ub37R/A9WIOj5z+cPZF+n2FwXeT6XmWLj3AAAAAElFTkSuQmCC"
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAoCAMAAAAL325tAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMA378ggGBAoBDvUDDPn2+vAZCQxyrXAAADV0lEQVRYw+2X2aKrIAxFGyaZ1Jr//9hrhCS2xdr3e/ZLEcheBcPgI1pSfIj4gVq0MvsQ9UlatE57W1aUtj3aPlTFd7cJD8FseyiiayWPyHUGSab0YIPQS5N4BsTQSoBdvqPXRvDcsyKJgBN2QbyCW7YzH3AD9g6uz9yxayZ4CiHkiZkDOLXZfa5gAEewn/AaDkW22ew+8wY5JOVIbgccel29glcech7AmX6Gm4eKRtcKS/uhIZNiYDj/DuHqNoIT/R6uQty4KFDA9du0xys4JKJ/gS+UWy/BySs8ee8Xg1gGcEmRNIcx3Hga+yscgTT3ZKeEW4kntghz6fAuf73UMvBaGcCpXyqf2S7jt2/RrrXaBoddZDCAc7w/DNwQ3uhnODjSabCmLS12mw43L+/cVoT4Cl8ILgo0RWEEb/Rl+M6Vl4j24paiJFzuwVGy0SmceyxjONFxDFd8ooxWbYhZ4IH/GWCVtHyNTziP4Ey/hmtXlSUewx0Hb/1fFOS/OlnJhhFc6GO4b2OKXL02t9xGntwug2xoKTdCdgmxCGEJYQFEO4Az4yPhXOmjgj3aV53ZdTnsk9WlloruCiRN7lUrRnChjw8Wx49Ta66n5g0OVddGpSeoCTpzR4DJsjGBkZJmkeO1AF35vNBgYXdHbontB7I2flbcKd7b6cXjT3/6X2X1BD6t+dnwpSeYhFhnbvK65wAeSuvpwG9iR97Kqou38AmEDlzp2M8O4MKyl/AuiLdwhPIGD4jV0wb/Aee7cnaApwMxHCoKpy4rBd3CMWWBvx7uPg7gRuLc2+avjtxwD9/l3+E8YdfwCJi+w6df4AmatxjnvbVcw/VADN/gz59GDrbR1bgivXX7HV76hBnJToU/n8+4Ia4/wB+drlM68bflCK4e7gKuNffwnVZ3FBuT7Ab8cXQ5coEnfyie4HxJuIf37+qauFJuvPMYLhezq3ceAiA8H7/A9f8qnG0HcGXY64QrCbcf4SQncJ2/dA0P3HsE15h7uNBNY4E/7Bk0gEeXEC3Dn00K73b+F7jQ9avAGMq48Annzz2xNlRDmhXeL8Kp/ABnLaa19nxNebTUNJevDxbeA8EO4FG/K0soWs9Fm51bglY7xw+LO3TegVqNOu6x3cW5LN3+ATMvR25U/gDvAAAAAElFTkSuQmCC"
+
+/***/ }),
+
+/***/ "./src/assets/clock.png":
+/*!******************************!*\
+  !*** ./src/assets/clock.png ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/clock.89d759ef.png";
 
 /***/ }),
 
@@ -1400,6 +1422,39 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAA6CAMAAAAg
 
 /***/ }),
 
+/***/ "./src/assets/cnbc.png":
+/*!*****************************!*\
+  !*** ./src/assets/cnbc.png ***!
+  \*****************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAA6CAMAAAAgLD+CAAAASFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////neHiwAAAAF3RSTlMAn9+/IEAQgGDvcDBQj8/ukKC+r7BvzkDApucAAAMxSURBVFjD5VdbYuMgDBQg8bJx0rQN97/pxsYBhEh309+dPxrNWJbGEoXXsG7TYVMIT3gTcjAe3sZ3yAWunHE7zxrfVHK5Qh1KOuffaVHusL+T7s7mDSHOzAHAZ67971gyA8Fnzr9Ma81DFhs7h18UvTYxc7wh5UcpItLvZUXf7htlrdbHX0QLyXuyL3MJJRCHDmYCDKx21cFq7jHVQodiWd6HgC1WLyCRcsNiww++UpCY7gjixrmyE88K159Nxk1IvfIXADLuNlRyQB78bDov8J/90N8IHO2xMq2VfZQaPnio+ovUFUKTZe/veKiUspkjWNd5Abo2YBRPHWAyh7Oh/0x8y0FnjlV+dhyhlsSwsUNjoB6VZFqemhdaLbWIIylltfBDvyeCcEL7VWoNTSbf12KbOiEQzOE1S8uG9ganhOJO+LSTjPxVOQJkzzz9UMKddEKID55zHtkADiV9DzH0fjgIXYdN7wSDNompZbqf0XQ2NQe9LaHV9ymRFls29S7px16k4oUdljthQ8todvb5KUT9jAfTuq17J1xh0Zx19oZDU02MYlvFW874USO+8wB7xgjboX76obr5ozoh2VJQufyzhH5WYnH5aZ2Yl1hSqm0Wrs8zuNKfK4a6/O+gD1fazymh1HOGDVHtfkh1OHqf86W3gBw11zxF8PuH5Gw/O27VAgI4rC1hC3VpSsslVgsI3JhFJfQKsW3fiBDzK+Cw4iUSdBAWmN0Do36ZGMo7swwiaLBrUi+wPM3wKiCRhf8IGNWm9Wau6/HarlWpHFJfKbdaSZs1OVkA0+ZZOWhwwiOMFtIRuwTeWVtnpRmkLlrry/Pj9QNtFw9HlLNg/aWE1cc5LuXreDOAeaDVHeGbd1KTysSkHBGVXRkZze80AJR3iMJO5dIqatUntU2us19SyupCmkhtBOuEtshr7slejhKkTsoopW6liLMMbCjbsxxoxyl1jpTAy37mg4JWLwOq3bhvRaoOHy7V9seO1GjwwK1ERx/N0V+sUlYzKeYiey9lqzRoz2n/tFQpWF5IXdYHjQ3MO8IBVJcz5OaPPKs94kRK313hUaOtfSOJVkJ4C5z2B/d8xnoZXEgmAAAAAElFTkSuQmCC"
+
+/***/ }),
+
+/***/ "./src/assets/compass.png":
+/*!********************************!*\
+  !*** ./src/assets/compass.png ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/compass.02654bb1.png";
+
+/***/ }),
+
+/***/ "./src/assets/engine.png":
+/*!*******************************!*\
+  !*** ./src/assets/engine.png ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/media/engine.48ac1273.png";
+
+/***/ }),
+
 /***/ "./src/assets/forbes-gray.png":
 /*!************************************!*\
   !*** ./src/assets/forbes-gray.png ***!
@@ -1408,6 +1463,17 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAA6CAMAAAAg
 /***/ (function(module, exports) {
 
 module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAdCAMAAACXBBKlAAAASFBMVEUAAABsbGxsbGxsbGxtbW1tbW1tbW1wcHBtbW1tbW1sbGxsbGxtbW1tbW1qamptbW1tbW1sbGxtbW1ubm5tbW1sbGxubm5tbW0cHZp6AAAAF3RSTlMAIECAv99gEO+fcKCQzzBQr0HeX7CuYHVaLx8AAAKOSURBVEjHvZXZuuMgCIBdMC5Rk7Yz0/d/0wkHUJP063ZxuAlB5QdEVb8r5qGo1+JrirdPafeH8irEFB1Os5/SqlmZ4FDeowFPs+pzYYShsAF1/WKJDl/TLNEq/+Y3aMp+TVuI1gjlDdr0Nc0caOYNmvmapoUmAr9A871M4JW3sHVCgNTAdcqlUBu5G9OMjQDZjGFkbDq49UpFNBSwekfjH4KmDQV2lgSWXALqwO1RiYY2lCi+NWzGjMtcbYY7xEKAI81QESPOkdaLG7zQHKDucIpp0ToyeEo/0ElCXECcdhzuFB7R5h9abicCJLtMXsn5jdf0AVDiO8quOsVYavwDjVXN7e2ootxAONJFDzRFaRv2fV/QFkjT7Iji9iNtmlIO6Ikulz909/4MZVFC8qrOVo20JMnV3myFTAvHJnsktDHuKp4oSi6G+BzrMfWAgqfUCiVCq3iXCZN2lTTTZK9IS+Kp10kzLZ5pcs9W+hZ92QRoldn17HnfwuZ4Hmn0QizPaEBT/P0o1QdR4d8DmrIbDYYnQdDPaCvpZHK2C5WJZdVnmnmPJjfXmBu5gYfvi2xfp/FPi3WkLa9phnM7Xotzw+UTbUxndPWMVqjzvVy3R166ol2Oed3TuNhppKknNBopQp0GUFp29fS0kuNn8aNjJzrvyplmJDh72jiAXbnkCpOghnzcQDbPaLO0gA/dKMfnQspwF2bZxL0r06bFtrnuTNOu1T2xI01JZDXL45DIDU3nu2fftyAdcPWERfEn2iwK6uxptTa6u8X/ogVx3bRLcu1ApMsOZ5XPSMUiTTxrXS4DbfU6C4zL1CUR3UWbg7x3MnbolApsuSYJWoTGS/sPUFWTSeyArhZos/5ijv8BKf1pLXXiPyUAAAAASUVORK5CYII="
+
+/***/ }),
+
+/***/ "./src/assets/forbes.png":
+/*!*******************************!*\
+  !*** ./src/assets/forbes.png ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAdCAMAAACXBBKlAAAAQlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////8IX9KGAAAAFXRSTlMAIECA37+gYO9wEM8wUJCvIUGPEX+F8zW1AAACkUlEQVRIx72V2ZrDIAiFExXXbF3m/V91Qg9Ek/RrO70Ybqoo/AiUdP8r5ql8YJiH5MNfaT9P5V2IyTu+Zv9KG8wsBMfyGY34zhc0FkEYhP3w1L8x6ePXNAvaINuJaW9tvqaNoG2E8gEtfE0zB5r5gGa+pvVKU6F/oOWaJspdvtPaCZHSBh7CVArayAWhmbsnmkwbxsRNR6FmyrOikO13NNkAmlYUWc/6O5d2KpHX1N3RUaCxjsWr755W5cRmbhAFW/kCwJFmkES+T9p6foUX3CF0h+uE5q2DIuP5jDcwj4zrneQ7xGc0/6Bdt38EaXkmeIXzIDb1gDr17bWqrhMsGv9Ak2Uv7e2QUWkgPqnSN7SubLPB82JkXcSqF0eIO7e0ENIU2ROGy4zZ+ziadBFT7gZvu5aW9HFDbbYC1SixaY2U1sY9qCdEKcmoCas2oQYUM55W8BBYSZUXpGmXSROCdUxL6qnmqReaP9N0zg74LctlFYKV0Z4F71S3uDr2LQ1fiPEVjXAl/xxlyFGXFI40FrvSqPkkKPoVbcYaKmerIE0i83Kmmc9oOrnat8ENnb4VKm7XJbLZYm1p43uakbcdx6LfcNOJ1j6ndfWKVtD5WcftkZccTiLmzZ4myU4trXtBw0lRamhAadzlM8NS4hfJrWOna6nKmWY0OHsqHNEuXTLCDkGRFkDJ5hXNawvkWJX697lgEarHSYu4d2W2a34rrjvTeqd5136/LnjEdQ3E3aQ4mq1Fi3jb9y1pB7gMLMvtRPPNe7x4mq317sfyvixA4PkX6RjepsuGg4vblanrrVuQW/N4aWjzbbnuksc7lQS683aK+r3Ts0OnDLSFoEGr4Lxs+0hDt0lQPbGrkeoo4Zb/BUMHYShIarA9AAAAAElFTkSuQmCC"
 
 /***/ }),
 
@@ -1441,6 +1507,17 @@ module.exports = __webpack_require__.p + "static/media/svgexport-1.d813281a.svg"
 /***/ (function(module, exports) {
 
 module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAAAkCAMAAACT8wdtAAAARVBMVEUAAABra2ttbW1sbGxsbGxtbW1wcHBsbGxtbW1tbW1sbGxqampubm5ra2ttbW1sbGxtbW1vb29ubm5sbGxubm5tbW1tbW03IdY3AAAAFnRSTlMAIN9Av4AQoGDvUDDPcK+QcI+Qz2+wSvQclQAABmZJREFUaN7lmYmS0zAMQCUf8pUmbQH//6cS68DpbumWAgMMmoEetmQ/SZbVLNxKa/DvCDX6SQM5VgOuS4a/SPD+blFHY0B4XT6XvotLnj+lzuT0+ZFKu6ZMx72dn3byDwUppnf6lz4knIW4l9eDnrtJWbOvrodBs7gHKrUMT6Fwl6X6y/JkAMOuV/c3fhiJH89+B566ibvu6/Z+ehnc9TeyMJn7UCXw5uT9l+e4ZbIf4HF/EwEfZ+I7cN/fSgSIL51O7L3csife1ANwX4IBkKric5lbT2PyBlCTLPVAr7n+HnzXL6UfxcOll/YS+EJA/vrJLBUE/wE4QtaQ18gqp6dLVRC9DEksPJB8FzzuZvL6LVSODb100sNIFPKANQ34T8N7j8HHKuynTGMX6Uw3ow8zLwmuB1g/Avd3wLHzCEE7ryPyK8GJ8/0FwRNQjARACHRCAAP/uCQ6JvZvzzE8BZ5eAYeM4Fctj01ulvhygWtu2w2lkgXiKXAfu3navyXD3wNuNa/XfSz0ufIrJ5yGXnHURuK9A49Hk/7GvqdiZ8vPJCc+Aw51i6KR48fgfkV7e1Zn+m/gAYG+2Yg9UXa9H8AzWWtz7D4/4427ZnjqZWyVczNVcu/BKQiC3amODvHOoCGf4N713WTgr4WxVN7p+JoegdPFvDUWvQyd4jYDj/tg+WIA+zab70fwqHmBS898CzocJufmOUHCsZVIoxyvnJsKnic4Lvw/IsdyERxboUe5yQra8sjFxkPtQ847Ab+Kf5ZqQVnfg1N0w3qpbHoosU5WcGSDTZcurK3gQ4OSNgTICHThXbOdhZDEr2OogoAsev967lgUPPaLgRffylD2Y3bp9XBp8FJa31YBp9jdSUj4qg7arDTil216Wyc1vyh4LHwnDeDaMk9PjKzg0clytnQ0cFyGf6tkXmueA5F5eefltkSQ3XutxLt5h+s+UNlUMPDPvJRGXBFAshc3HdPPUV+7Z/AyFBbxaxSiKg0dHjKaqSTiSBJxW2vjMJAy5RStuMUAPuOhZ8wGHnj1mTpYBoNa4lEHevHalgN/11qWYpRmxDU2quQO4FQs4XbTIWfrH/d9qQJ/XhR1FuUJXvsEb+0IrvtDW3NWdRzH5Zu0fgDHpWSeZytEHlVLxHbVIDulCLiVW9nsPOPfA9/jX6odNGRaDbmBj3Kx4APw3N3VaaoThlvwcBd8dVJHYLruBDCL2x1ws3QEH2PO81DhtjPKcZ7g/vvgkGaJbzxRNuAmuN8AHoCT88eq/iy4qVsX+xI4rqSLOC4KF+BazMNJK3S+C463jaj9eJ90ji/QR+CA9UfBEzOejz1N4UJQ9CJFfAocJVnbqEUoRUgzziVUns93wXODO+BYDruvCA/ARX4YfHw/kx2lSfAlWrPs6Bnw+s2AW6SuBe1DPBpP6+0eeIM74FbB7cD8BvDpWzCK4j3ZJuLyVKrTPCya8UGcWJrxtOLgbsSluOis6xrkiqEywVGy6ReDw+mQ7NoO4fzBsD0F3ixYFVHB5Qa1DoGSIE7wwvN0ae2/Ll1UhqVou5emE+v+T977CbZ9AN7TLTgdi5YlO81WwGXtIFnFm9evwiEJSp3dQJoku6onqNfSXRRwayvcGq9rYWBisuTByX1/Ek7Mbx7SRdlosAcqpTVvB9Gh1+CMsv8AvC48j0IP3ow7rKTRTVXbBUs2e+AWr9ZHVe4wm2+dWSuPExsqEesmX3NIFumndS10CmJhq/b7Q/0gpks9nLN5Puq+e6JDDqKol8wvrkZ69CCCEDbxu2cuZK0rcR5rsmxKeOt2u1Aaeo1plP2rQxL7ExBkH212UCWctBqlbhJQj1Kpx+PZ3PytQ+N6HY2IOiIEO30r6S/dkyzknRo8ghfnQgMveZFNtTCYfYq378iVPC14c/xUOgkXRN4lLaIWeiDz1YISJBfD7kyaxlJhT3j7oqI1iOabObmwo+PJdIOuHufm2oqs9UknmdDm+cXnUzmc/Xyd1o8PTXO+9ygAcuAYxql0QlWVZWVVijbcdCq5us9RSBNEVZ6SOXPeydYrvChuOoL4UnpVEPElte0ZNXT3n9tSWvDVv11ENZ1jCuNG/BvFux7wO0P1tS2n3tOOvBSrpH8jOeVKv9rm1t9IgP9D/FvwAv+JxNkvpOva+wL/i+Tg3Kd09iQPhc7wX4rb4L+U5uEPylcyv6q/eKN6UQAAAABJRU5ErkJggg=="
+
+/***/ }),
+
+/***/ "./src/assets/the-new-york-times.png":
+/*!*******************************************!*\
+  !*** ./src/assets/the-new-york-times.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAAAkCAMAAACT8wdtAAAAQlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////8IX9KGAAAAFXRSTlMAIN+/QBCgYO+AMFBwz5B/rz9P7rAgCfYPAAAGbUlEQVRo3uWZCbLbIAxAESBWG7sL979qjZbgLM1P03baTplp7QRL6ElCKP7mepRi/p2BBX9SQcxVgesazV804LG1ILPZgXl/LKkfwwZPn0InclyeiZQWIp5tW1528g8FaQt38q2P4RYm7un9oMeuI+3RV9vdoFntE5GahqeAudNafVtfDKA75Opx44eS7eOn78BD12Fb9YcXlrfBbb8ZK5HZD0UcGcf3X1/j5of9AN+Om83A80y8A/f9dmRjtrd2JxyRvmYPZNQTcJ+cAqCIvrbVcl3Gw82YGnipJ3LF9nvwQz4lNVSMaD2Vt8BXNHgkq2pKYPwH4GCihPxzJpHl5VLlWC6awBqejPgQPB9q4n4JlSVFb+10NxIFvYEaBvw6vPccfKxCfoo4rAgLXs0+zbzAuN6Y/SNw/wAcOs2gKcs+Ir+jWSjf3xiwHLZmNAbBIBVLAf+4JFoi9rf72LwEHt4BNxGM36U8Fj5Z8tsFrth2KAopGvPJvAjuc1dP+1sy+E3gmu31mHN9rvzODschlyyWkXh34NtZpb/S7zHp3vIzyZH2gAUxkSXi9jG43+ECJs70F3AHBi86th4w2t5P4BG1tTl3nwtcuWuGpx5hxky5GSrae3B0jKBnqsVTvKORkE9wb0e9poK/MWOqZOn4Gp+BY1NvjUXbkEm2ETgrsOnrLOux+C7g6go2ce2RTkELQ+U0nhLEnVuJMMrxTrkp4HGCw0r/A1AsV6aUFcY9+SqBLg9UbLypfYzlIODrRq1B1aDs9+C42UMhe4kWXUgmCjiQwiJLJ5IW8CGBQRoCIARsbDXVaQRkv46pahiEjy86ulaj4FtvCp58SUPYj6dTr5LYGrUs9W1ncNy6XZhk6XQFS/YiXdr0tjxU/CrgW5IzqS+1RHo8ELKAZ8vL6dJZwWEd/uUDNZfiKRCRlreeT0swbL2XSnyot7AfE5VUOQEnoaARFwTD2QtN5uRzlmv3BJ6GwMp+zUxUuaGDU0YTFUcckCOuazUKAwpTDFmL2+aMj3DqGaOCO1p9pg6kwSCaaNYaOXjVZEfflRK5GAUFN1liI0L2BI5JE+5Q7WLU/vGwSwTo8yqosyhP8NoneClncLEPdM1Z1eGqGy/DyhnxFOk5XSHTrGhC0isKySlJwU0cYWNj5x7/HvgR/1R1owHRSsgVfJSLFZ6Ax26blVRHcNfg7iH4brmOGHUd+WEWtwfgqukMPuasp6lEbWfm7TzBP30f3IRZ4gutyQbYCe6bMU/A0fpzVX8VXMW1i30LHHaURezGVYdqMU0HYPD4EByuG1H98T7pLB2gz8AN1B8FD8S4nHuahOOS5CAFeAkcOFnLl1HyuQhJxtmBTeDLQ/BYzANwSCfrK5gn4Dx+GHx8P5MduHfwKWuzbPEV8HpRYFeua076EH/MMHjp5RF4MQ/AtYLrhvkN4NO3RimS96hGbOtLqY5zs0jGO3ZiUq5PJVnzMOJcXGTBtjs+YjBNcOBs+sXgZjklO4dpBfX+1ttL4EWDVQEU3LQuTaa0QfEEznF0unRFOc5YZGjKaj03nfD5+Mf3foK1D8B7uAbHc9HSZMfZCth46SBBNj6IXVkTFDu5AUnhF3+IfkJTW+o2M7i2FXbPbU8EjEQWvLF83i/MCfHmJd3Ghjp9oZJK8boRLXgJzij7T8DrSs+h686rcgvDxRtZUaVd0GTTF265aR9VqcMsvtBMrDSPpOjLBrXx1xSSlftpWQusgGjYqv7+ED+w6lRP+2zuj3pYj3jKQWDxFOlia8ZnLyIQTGO/e+ICkmqHzCe+m5G8cbseKAX8QPzEqW65Z9t4pRUNGLajzA4qOdk5ELoOB7KVUj1vz2Lnbx0cx+toRMQRzunu21F+6S68kLei8AyerHXFeM6LqKKJwPRTvr5Dm+LU4NXxU2hhLpPJSlx54x5xRfXVChwkmx27VZWFRJ64JGUFbRDVN/PhRI7Oi8o6WT1P48oOvAmX27fini4+Lum09yObouQXyhgfvQow0VEMNxWav703XpZXxe1ijjyK9sj3LJA6AMDcjEiZczdaP8TfG3Y6AulQencAwFti7RUxsI/f22JY4d2/XWRRHXNw40T8G4e3ukHvp+obJnNlCwfymrSS/o3kGCv+ap2t3wxn/o/hb8GT+U9Gnv1CaPt4E/C/jOisXcPCBX28M/svh23mvxzlk/mD4xt2j6XzDMeSwgAAAABJRU5ErkJggg=="
 
 /***/ }),
 
@@ -1719,74 +1796,230 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap */ "react-bootstrap");
 /* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../assets/svg/svgexport-1.svg */ "./src/assets/svg/svgexport-1.svg");
-/* harmony import */ var _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _styles_site_middle_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../styles/site/middle.scss */ "./src/core/styles/site/middle.scss");
+/* harmony import */ var _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../assets/svg/svgexport-1.svg */ "./src/assets/svg/svgexport-1.svg");
+/* harmony import */ var _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _assets_the_new_york_times_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../assets/the-new-york-times.png */ "./src/assets/the-new-york-times.png");
+/* harmony import */ var _assets_the_new_york_times_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_assets_the_new_york_times_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _assets_cnbc_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../assets/cnbc.png */ "./src/assets/cnbc.png");
+/* harmony import */ var _assets_cnbc_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_cnbc_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../assets/business-insider.png */ "./src/assets/business-insider.png");
+/* harmony import */ var _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_assets_business_insider_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _assets_forbes_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../assets/forbes.png */ "./src/assets/forbes.png");
+/* harmony import */ var _assets_forbes_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_assets_forbes_png__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _assets_clock_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../assets/clock.png */ "./src/assets/clock.png");
+/* harmony import */ var _assets_clock_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_assets_clock_png__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _assets_engine_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../assets/engine.png */ "./src/assets/engine.png");
+/* harmony import */ var _assets_engine_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_assets_engine_png__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _assets_compass_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../assets/compass.png */ "./src/assets/compass.png");
+/* harmony import */ var _assets_compass_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_assets_compass_png__WEBPACK_IMPORTED_MODULE_10__);
 var _jsxFileName = "/Users/jeffersondoljak/Sites/cripto/ssrReactJs/src/core/Components/site/Middle.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+
+
+
+
+
+
+
 
 
 
 class Middle extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
-  renderTitle() {
+  constructor(...args) {
+    super(...args);
+    _defineProperty(this, "imgsDes", [{
+      src: _assets_clock_png__WEBPACK_IMPORTED_MODULE_8___default.a,
+      title: "Easy",
+      alt: "Get started with as little as $10 and use our top-rated mobile app to invest on the go."
+    }, {
+      src: _assets_engine_png__WEBPACK_IMPORTED_MODULE_9___default.a,
+      title: "Optimized",
+      alt: "We put the robots to work for you, with automated tools and strategies that can help unlock your money’s potential."
+    }, {
+      src: _assets_compass_png__WEBPACK_IMPORTED_MODULE_10___default.a,
+      title: "Personalized",
+      alt: "Customize your account, either as hands on as you want, or with our guidance along the way."
+    }]);
+    _defineProperty(this, "logos", [{
+      link: "https://www.nytimes.com/2020/10/30/your-money/election-investments.html",
+      src: _assets_the_new_york_times_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+      alt: "The New York Times"
+    }, {
+      link: "https://www.cnbc.com/2020/02/13/why-betterment-is-the-best-roboadvisor-for-beginning-investors.html",
+      src: _assets_cnbc_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+      alt: "CNBC"
+    }, {
+      link: "https://www.businessinsider.com/betterment-bolsters-sustainable-investing-offerings-2020-10",
+      src: _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_6___default.a,
+      alt: "Bussiness"
+    }, {
+      link: "https://www.forbes.com/sites/donnafuscaldo/2019/03/14/betterment-is-coming-for-the-checking-account/#2845accb1bb6",
+      src: _assets_forbes_png__WEBPACK_IMPORTED_MODULE_7___default.a,
+      alt: "Fobes"
+    }]);
+  }
+  renderLogos() {
+    return [__jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Container"], {
+      fluid: true,
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 57,
+        columnNumber: 7
+      }
+    }, __jsx("div", {
+      className: "journals-logo-container",
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 58,
+        columnNumber: 9
+      }
+    }, this.logos.map(logo => {
+      return __jsx("a", {
+        href: logo.link,
+        target: "_blank",
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61,
+          columnNumber: 15
+        }
+      }, __jsx("img", {
+        className: "journals",
+        src: logo.src,
+        alt: logo.alt,
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62,
+          columnNumber: 17
+        }
+      }));
+    })))];
+  }
+  renderTop() {
     return [__jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Row"], {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 9,
+        lineNumber: 72,
         columnNumber: 7
       }
     }, __jsx("img", {
       className: "land-image",
-      src: _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_2___default.a,
+      src: _assets_svg_svgexport_1_svg__WEBPACK_IMPORTED_MODULE_3___default.a,
       alt: "betterment app mobile screenshot",
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 10,
+        lineNumber: 73,
         columnNumber: 9
       }
     }), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 15,
+        lineNumber: 78,
         columnNumber: 9
       }
-    }, "texto meio"))];
+    }, this.renderLogos()))];
   }
-  renderBody() {
-    return [__jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Row"], {
+  renderText() {
+    return [__jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 22,
+        lineNumber: 84,
         columnNumber: 7
       }
-    }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
+    }, __jsx("h2", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 23,
+        lineNumber: 85,
         columnNumber: 9
       }
-    }, "fig 1"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
+    }, "Investing built for", __jsx("br", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24,
-        columnNumber: 9
+        lineNumber: 87,
+        columnNumber: 11
       }
-    }, "fig 2"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_1__["Col"], {
+    }), "a better future."), __jsx("p", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 25,
+        lineNumber: 89,
         columnNumber: 9
       }
-    }, "fig 3"))];
+    }, "Whether you're starting with $10 or $10M,", __jsx("br", {
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 91,
+        columnNumber: 11
+      }
+    }), "we\u2019re built to help you reach your financial goals."))];
+  }
+  renderFigures() {
+    return [__jsx("div", {
+      className: "assets-imgs-dest",
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 99,
+        columnNumber: 7
+      }
+    }, this.imgsDes.map(img => {
+      return __jsx("div", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 102,
+          columnNumber: 13
+        }
+      }, __jsx("img", {
+        className: "assets-img-dest",
+        width: "100%",
+        src: img.src,
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 103,
+          columnNumber: 15
+        }
+      }), __jsx("h3", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 104,
+          columnNumber: 15
+        }
+      }, img.title), __jsx("p", {
+        __self: this,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 105,
+          columnNumber: 15
+        }
+      }, img.alt));
+    }))];
   }
   render() {
-    return [this.renderTitle(), this.renderBody()];
+    return __jsx("div", {
+      className: "middle-container",
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 115,
+        columnNumber: 7
+      }
+    }, this.renderTop(), this.renderText(), this.renderFigures());
   }
 }
 
@@ -1811,8 +2044,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_the_new_york_times_gray_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_the_new_york_times_gray_png__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _assets_cnbc_gray_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../assets/cnbc-gray.png */ "./src/assets/cnbc-gray.png");
 /* harmony import */ var _assets_cnbc_gray_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_assets_cnbc_gray_png__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../assets/business-insider.png */ "./src/assets/business-insider.png");
-/* harmony import */ var _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_business_insider_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _assets_business_insider_gray_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../assets/business-insider-gray.png */ "./src/assets/business-insider-gray.png");
+/* harmony import */ var _assets_business_insider_gray_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_business_insider_gray_png__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _assets_forbes_gray_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../assets/forbes-gray.png */ "./src/assets/forbes-gray.png");
 /* harmony import */ var _assets_forbes_gray_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_assets_forbes_gray_png__WEBPACK_IMPORTED_MODULE_6__);
 var _jsxFileName = "/Users/jeffersondoljak/Sites/cripto/ssrReactJs/src/core/Components/site/Presentation.tsx";
@@ -1838,7 +2071,7 @@ class Presentation extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Componen
       alt: "CNBC"
     }, {
       link: "https://www.businessinsider.com/betterment-bolsters-sustainable-investing-offerings-2020-10",
-      src: _assets_business_insider_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+      src: _assets_business_insider_gray_png__WEBPACK_IMPORTED_MODULE_5___default.a,
       alt: "Bussiness"
     }, {
       link: "https://www.forbes.com/sites/donnafuscaldo/2019/03/14/betterment-is-coming-for-the-checking-account/#2845accb1bb6",
@@ -2085,6 +2318,31 @@ ___CSS_LOADER_EXPORT___.push([module.i, ".header-container {\n  background-color
 
 /***/ }),
 
+/***/ "./src/core/styles/site/middle.scss":
+/*!******************************************!*\
+  !*** ./src/core/styles/site/middle.scss ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/cssWithMappingToString.js */ "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()(_node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0___default.a);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".middle-container {\n  text-align: center;\n  margin-top: -2px;\n  z-index: 10;\n  position: relative;\n  background-color: #010b50;\n  color: white;\n}\n.middle-container h2 {\n  font-size: 2rem;\n  letter-spacing: 0.1rem;\n  padding-top: 8rem;\n}\n.middle-container p {\n  font-size: 1rem;\n  font-weight: 400;\n  letter-spacing: 0.06rem;\n  padding-bottom: 17rem;\n}\n.middle-container .journals-logo-container {\n  display: none;\n  justify-content: center;\n}\n.middle-container .journals-logo-container a img {\n  max-width: 60%;\n}\n.middle-container .assets-imgs-dest {\n  color: black;\n  display: flex;\n  width: 100vw;\n  padding: 1rem;\n  position: absolute;\n  justify-content: center;\n  bottom: -60%;\n}\n.middle-container .assets-imgs-dest img {\n  width: 90%;\n  min-width: 18rem;\n  max-width: 18rem;\n}\n.middle-container .assets-imgs-dest div:nth-child(odd) {\n  margin-top: 5rem;\n}\n.middle-container .assets-imgs-dest h3 {\n  padding-top: 1rem;\n}\n.middle-container .assets-imgs-dest p {\n  padding-bottom: 1rem;\n}\n\n@media (max-width: 1200px) {\n  .middle-container .journals-logo-container {\n    display: flex;\n    justify-content: space-evenly;\n  }\n  .middle-container .journals-logo-container a img {\n    max-width: 100%;\n  }\n}\n@media (max-width: 963px) {\n  .middle-container .assets-imgs-dest {\n    padding: 1rem;\n    position: absolute;\n    justify-content: center;\n    bottom: -40%;\n  }\n  .middle-container .assets-imgs-dest img {\n    min-width: 230px;\n    max-width: 230px;\n  }\n  .middle-container .assets-imgs-dest div:nth-child(odd) {\n    margin-top: 0rem;\n  }\n  .middle-container .assets-imgs-dest h3 {\n    font-size: 1.4rem;\n    letter-spacing: 0.1rem;\n    margin-bottom: 1rem;\n  }\n  .middle-container .assets-imgs-dest p {\n    font-size: 0.8rem;\n  }\n}\n@media (max-width: 700px) {\n  .middle-container .assets-imgs-dest {\n    display: block;\n    position: absolute;\n    justify-content: center;\n    top: 70%;\n  }\n  .middle-container .assets-imgs-dest img {\n    max-width: 90%;\n  }\n  .middle-container .assets-imgs-dest div {\n    margin-bottom: 3rem;\n  }\n  .middle-container .assets-imgs-dest p {\n    font-size: 1.3rem;\n  }\n}", "",{"version":3,"sources":["webpack://./middle.scss","webpack://./../_variables.scss"],"names":[],"mappings":"AAEA;EACE,kBAAA;EACA,gBAAA;EACA,WAAA;EACA,kBAAA;EACA,yBCNK;EDOL,YAAA;AADF;AAEE;EACE,eAAA;EACA,sBAAA;EACA,iBAAA;AAAJ;AAEE;EACE,eAAA;EACA,gBAAA;EACA,uBAAA;EACA,qBAAA;AAAJ;AAEE;EACE,aAAA;EACA,uBAAA;AAAJ;AAEM;EACE,cAAA;AAAR;AAIE;EACE,YAAA;EACA,aAAA;EACA,YAAA;EACA,aAAA;EACA,kBAAA;EACA,uBAAA;EACA,YAAA;AAFJ;AAGI;EACE,UAAA;EACA,gBAAA;EACA,gBAAA;AADN;AAGI;EACE,gBAAA;AADN;AAGI;EACE,iBAAA;AADN;AAGI;EACE,oBAAA;AADN;;AAKA;EAEI;IACE,aAAA;IACA,6BAAA;EAHJ;EAKM;IACE,eAAA;EAHR;AACF;AAQA;EAEI;IACE,aAAA;IACA,kBAAA;IACA,uBAAA;IACA,YAAA;EAPJ;EASI;IACE,gBAAA;IACA,gBAAA;EAPN;EAUI;IACE,gBAAA;EARN;EAUI;IACE,iBAAA;IACA,sBAAA;IACA,mBAAA;EARN;EAUI;IACE,iBAAA;EARN;AACF;AAYA;EAEI;IACE,cAAA;IACA,kBAAA;IACA,uBAAA;IACA,QAAA;EAXJ;EAYI;IACE,cAAA;EAVN;EAYI;IACE,mBAAA;EAVN;EAYI;IACE,iBAAA;EAVN;AACF","sourcesContent":["@import \"../variables\";\n\n.middle-container {\n  text-align: center;\n  margin-top: -2px;\n  z-index: 10;\n  position: relative;\n  background-color: $blue;\n  color: white;\n  h2 {\n    font-size: 2rem;\n    letter-spacing: 0.1rem;\n    padding-top: 8rem;\n  }\n  p {\n    font-size: 1rem;\n    font-weight: 400;\n    letter-spacing: 0.06rem;\n    padding-bottom: 17rem;\n  }\n  .journals-logo-container {\n    display: none;\n    justify-content: center;\n    a {\n      img {\n        max-width: 60%;\n      }\n    }\n  }\n  .assets-imgs-dest {\n    color: black;\n    display: flex;\n    width: 100vw;\n    padding: 1rem;\n    position: absolute;\n    justify-content: center;\n    bottom: -60%;\n    img {\n      width: 90%;\n      min-width: 18rem;\n      max-width: 18rem;\n    }\n    div:nth-child(odd) {\n      margin-top: 5rem;\n    }\n    h3 {\n      padding-top: 1rem;\n    }\n    p {\n      padding-bottom: 1rem;\n    }\n  }\n}\n@media (max-width: 1200px) {\n  .middle-container {\n    .journals-logo-container {\n      display: flex;\n      justify-content: space-evenly;\n      a {\n        img {\n          max-width: 100%;\n        }\n      }\n    }\n  }\n}\n@media (max-width: 963px) {\n  .middle-container {\n    .assets-imgs-dest {\n      padding: 1rem;\n      position: absolute;\n      justify-content: center;\n      bottom: -40%;\n\n      img {\n        min-width: 230px;\n        max-width: 230px;\n      }\n\n      div:nth-child(odd) {\n        margin-top: 0rem;\n      }\n      h3 {\n        font-size: 1.4rem;\n        letter-spacing: 0.1rem;\n        margin-bottom: 1rem;\n      }\n      p {\n        font-size: 0.8rem;\n      }\n    }\n  }\n}\n@media (max-width: 700px) {\n  .middle-container {\n    .assets-imgs-dest {\n      display: block;\n      position: absolute;\n      justify-content: center;\n      top: 70%;\n      img {\n        max-width: 90%;\n      }\n      div {\n        margin-bottom: 3rem;\n      }\n      p {\n        font-size: 1.3rem;\n      }\n    }\n  }\n}\n","$yellow: #fdfcd0;\n$blue: #010b50;\n$cyan: #010b50;\n$gray: #434128;\n$red: #f44723;\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
 /***/ "./src/core/styles/site/not-found.scss":
 /*!*********************************************!*\
   !*** ./src/core/styles/site/not-found.scss ***!
@@ -2128,7 +2386,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()(_node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0___default.a);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, ".land-image {\n  width: 100vw;\n  position: absolute;\n  bottom: 0;\n  bottom: 50%;\n}\n\n.row {\n  position: relative;\n  --bs-gutter-x: 0 !important;\n  --bs-gutter-y: 0 !important;\n}\n\n.presentation-container {\n  background-color: #fdfcd0;\n  width: 100vw;\n  padding-top: 2rem;\n}\n.presentation-container .item-title {\n  padding-top: 2rem;\n}\n.presentation-container .item-body p {\n  font-size: 1.2rem;\n}\n.presentation-container img {\n  width: 100%;\n}\n.presentation-container .col {\n  padding: 0;\n}\n.presentation-container .container-fluid,\n.presentation-container .container {\n  padding: 0;\n}\n.presentation-container .journals-logo-container {\n  display: flex;\n  align-items: center;\n  padding-top: 3rem;\n}\n.presentation-container .journals-logo-container a {\n  max-width: 20%;\n  max-height: 1rem;\n  margin-right: 0.5rem;\n  display: flex;\n  align-items: center;\n}\n.presentation-container .journals-logo-container a img {\n  max-width: 80%;\n}\n\n@media (max-width: 1200px) {\n  .land-image {\n    width: 100vw !important;\n    position: absolute;\n    bottom: 0;\n    right: 0;\n  }\n  .presentation-container {\n    padding-top: 1rem;\n    text-align: center;\n  }\n  .presentation-container img {\n    width: 80%;\n    padding-top: 3rem;\n  }\n  .presentation-container .item-title {\n    font-size: 4.7rem;\n  }\n  .presentation-container .item-body p {\n    font-size: 2rem;\n    width: 100%;\n    text-align: center;\n    padding: 1rem;\n  }\n  .presentation-container .journals-logo-container {\n    display: none;\n  }\n  .presentation-container .container > .row {\n    display: block;\n  }\n}\n@media (max-width: 560px) {\n  .presentation-container .item-title {\n    font-size: 2.7rem;\n  }\n  .presentation-container .item-body p {\n    font-size: 1rem;\n    width: 100%;\n    text-align: center;\n    padding: 1rem;\n  }\n}", "",{"version":3,"sources":["webpack://./presentation.scss","webpack://./../_variables.scss"],"names":[],"mappings":"AAEA;EACE,YAAA;EACA,kBAAA;EACA,SAAA;EACA,WAAA;AADF;;AAGA;EACE,kBAAA;EACA,2BAAA;EACA,2BAAA;AAAF;;AAEA;EACE,yBCdO;EDeP,YAAA;EACA,iBAAA;AACF;AACE;EACE,iBAAA;AACJ;AAEI;EACE,iBAAA;AAAN;AAIE;EACE,WAAA;AAFJ;AAIE;EACE,UAAA;AAFJ;AAIE;;EAEE,UAAA;AAFJ;AAIE;EACE,aAAA;EACA,mBAAA;EACA,iBAAA;AAFJ;AAGI;EACE,cAAA;EACA,gBAAA;EACA,oBAAA;EACA,aAAA;EACA,mBAAA;AADN;AAEM;EACE,cAAA;AAAR;;AAMA;EACE;IACE,uBAAA;IACA,kBAAA;IACA,SAAA;IACA,QAAA;EAHF;EAKA;IACE,iBAAA;IACA,kBAAA;EAHF;EAIE;IACE,UAAA;IACA,iBAAA;EAFJ;EAIE;IACE,iBAAA;EAFJ;EAKI;IACE,eAAA;IACA,WAAA;IACA,kBAAA;IACA,aAAA;EAHN;EAME;IACE,aAAA;EAJJ;EAOI;IACE,cAAA;EALN;AACF;AAUA;EAEI;IACE,iBAAA;EATJ;EAYI;IACE,eAAA;IACA,WAAA;IACA,kBAAA;IACA,aAAA;EAVN;AACF","sourcesContent":["@import \"../variables\";\n\n.land-image {\n  width: 100vw;\n  position: absolute;\n  bottom: 0;\n  bottom: 50%;\n}\n.row {\n  position: relative;\n  --bs-gutter-x: 0 !important;\n  --bs-gutter-y: 0 !important;\n}\n.presentation-container {\n  background-color: $yellow;\n  width: 100vw;\n  padding-top: 2rem;\n\n  .item-title {\n    padding-top: 2rem;\n  }\n  .item-body {\n    p {\n      font-size: 1.2rem;\n    }\n  }\n\n  img {\n    width: 100%;\n  }\n  .col {\n    padding: 0;\n  }\n  .container-fluid,\n  .container {\n    padding: 0;\n  }\n  .journals-logo-container {\n    display: flex;\n    align-items: center;\n    padding-top: 3rem;\n    a {\n      max-width: 20%;\n      max-height: 1rem;\n      margin-right: 0.5rem;\n      display: flex;\n      align-items: center;\n      img {\n        max-width: 80%;\n      }\n    }\n  }\n}\n\n@media (max-width: 1200px) {\n  .land-image {\n    width: 100vw !important;\n    position: absolute;\n    bottom: 0;\n    right: 0;\n  }\n  .presentation-container {\n    padding-top: 1rem;\n    text-align: center;\n    img {\n      width: 80%;\n      padding-top: 3rem;\n    }\n    .item-title {\n      font-size: 4.7rem;\n    }\n    .item-body {\n      p {\n        font-size: 2rem;\n        width: 100%;\n        text-align: center;\n        padding: 1rem;\n      }\n    }\n    .journals-logo-container {\n      display: none;\n    }\n    .container {\n      > .row {\n        display: block;\n      }\n    }\n  }\n}\n\n@media (max-width: 560px) {\n  .presentation-container {\n    .item-title {\n      font-size: 2.7rem;\n    }\n    .item-body {\n      p {\n        font-size: 1rem;\n        width: 100%;\n        text-align: center;\n        padding: 1rem;\n      }\n    }\n  }\n}\n","$yellow: #fdfcd0;\n$blue: #010b50;\n$cyan: #010b50;\n$gray: #434128;\n$red: #f44723;\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.i, ".land-image {\n  width: 100vw;\n  position: absolute;\n  bottom: 0;\n  bottom: 50%;\n}\n\n.row {\n  position: relative;\n  --bs-gutter-x: 0 !important;\n  --bs-gutter-y: 0 !important;\n}\n\n.presentation-container {\n  background-color: #fdfcd0;\n  width: 100vw;\n  padding-top: 2rem;\n}\n.presentation-container .item-title {\n  padding-top: 2rem;\n}\n.presentation-container .item-body p {\n  font-size: 1.2rem;\n}\n.presentation-container img {\n  width: 100%;\n}\n.presentation-container .col {\n  padding: 0;\n}\n.presentation-container .container-fluid,\n.presentation-container .container {\n  padding: 0;\n}\n\n@media (max-width: 1200px) {\n  .land-image {\n    width: 100vw !important;\n    position: absolute;\n    bottom: 100%;\n    right: 0;\n  }\n  .presentation-container {\n    padding-top: 1rem;\n    text-align: center;\n  }\n  .presentation-container img {\n    width: 80%;\n    padding-top: 3rem;\n  }\n  .presentation-container .item-title {\n    font-size: 4.7rem;\n  }\n  .presentation-container .item-body p {\n    font-size: 2rem;\n    width: 100%;\n    text-align: center;\n    padding: 1rem;\n  }\n  .presentation-container .journals-logo-container {\n    display: none;\n  }\n  .presentation-container .container > .row {\n    display: block;\n  }\n}\n@media (max-width: 560px) {\n  .presentation-container .item-title {\n    font-size: 2.7rem;\n  }\n  .presentation-container .item-body p {\n    font-size: 1rem;\n    width: 100%;\n    text-align: center;\n    padding: 1rem;\n  }\n}", "",{"version":3,"sources":["webpack://./presentation.scss","webpack://./../_variables.scss"],"names":[],"mappings":"AAEA;EACE,YAAA;EACA,kBAAA;EACA,SAAA;EACA,WAAA;AADF;;AAGA;EACE,kBAAA;EACA,2BAAA;EACA,2BAAA;AAAF;;AAEA;EACE,yBCdO;EDeP,YAAA;EACA,iBAAA;AACF;AACE;EACE,iBAAA;AACJ;AAEI;EACE,iBAAA;AAAN;AAIE;EACE,WAAA;AAFJ;AAIE;EACE,UAAA;AAFJ;AAIE;;EAEE,UAAA;AAFJ;;AAMA;EACE;IACE,uBAAA;IACA,kBAAA;IACA,YAAA;IACA,QAAA;EAHF;EAKA;IACE,iBAAA;IACA,kBAAA;EAHF;EAIE;IACE,UAAA;IACA,iBAAA;EAFJ;EAIE;IACE,iBAAA;EAFJ;EAKI;IACE,eAAA;IACA,WAAA;IACA,kBAAA;IACA,aAAA;EAHN;EAME;IACE,aAAA;EAJJ;EAOI;IACE,cAAA;EALN;AACF;AAUA;EAEI;IACE,iBAAA;EATJ;EAYI;IACE,eAAA;IACA,WAAA;IACA,kBAAA;IACA,aAAA;EAVN;AACF","sourcesContent":["@import \"../variables\";\n\n.land-image {\n  width: 100vw;\n  position: absolute;\n  bottom: 0;\n  bottom: 50%;\n}\n.row {\n  position: relative;\n  --bs-gutter-x: 0 !important;\n  --bs-gutter-y: 0 !important;\n}\n.presentation-container {\n  background-color: $yellow;\n  width: 100vw;\n  padding-top: 2rem;\n\n  .item-title {\n    padding-top: 2rem;\n  }\n  .item-body {\n    p {\n      font-size: 1.2rem;\n    }\n  }\n\n  img {\n    width: 100%;\n  }\n  .col {\n    padding: 0;\n  }\n  .container-fluid,\n  .container {\n    padding: 0;\n  }\n}\n\n@media (max-width: 1200px) {\n  .land-image {\n    width: 100vw !important;\n    position: absolute;\n    bottom: 100%;\n    right: 0;\n  }\n  .presentation-container {\n    padding-top: 1rem;\n    text-align: center;\n    img {\n      width: 80%;\n      padding-top: 3rem;\n    }\n    .item-title {\n      font-size: 4.7rem;\n    }\n    .item-body {\n      p {\n        font-size: 2rem;\n        width: 100%;\n        text-align: center;\n        padding: 1rem;\n      }\n    }\n    .journals-logo-container {\n      display: none;\n    }\n    .container {\n      > .row {\n        display: block;\n      }\n    }\n  }\n}\n\n@media (max-width: 560px) {\n  .presentation-container {\n    .item-title {\n      font-size: 2.7rem;\n    }\n    .item-body {\n      p {\n        font-size: 1rem;\n        width: 100%;\n        text-align: center;\n        padding: 1rem;\n      }\n    }\n  }\n}\n","$yellow: #fdfcd0;\n$blue: #010b50;\n$cyan: #010b50;\n$gray: #434128;\n$red: #f44723;\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
@@ -2435,7 +2693,7 @@ var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBP
 ___CSS_LOADER_EXPORT___.push([module.i, "@import url(//db.onlinewebfonts.com/c/879269be836bf8d970d4ef4fb0e54f42?family=GT+America+Extended);"]);
 ___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_ref_8_0_node_modules_resolve_url_loader_index_js_ref_8_1_node_modules_bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_2__["default"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, "h1 {\n  font-family: GT America Extended, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n  font-weight: 400;\n  line-height: 1;\n  letter-spacing: 0.3rem;\n}\n\np {\n  font-family: GT America, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n}\n\n@media (max-width: 963px) {\n  h1 {\n    font-size: 4.6rem;\n  }\n  p {\n    font-size: 4.2rem;\n  }\n}\n.NotFound {\n  text-align: center;\n}\n.NotFound .NotFound-header {\n  background-color: #222;\n  height: 150px;\n  padding: 20px;\n  color: white;\n}\n\n* {\n  font-size: 16px;\n}\n\nbody {\n  background-color: #fff;\n}", "",{"version":3,"sources":["webpack://./core/styles/_globals.scss","webpack://./styles.scss","webpack://./core/styles/_mixins.scss"],"names":[],"mappings":"AACA;EACE,8EAAA;EACA,iBAAA;EACA,gBAAA;EACA,cAAA;EACA,sBAAA;ACEF;;ADCA;EACE,qEAAA;EACA,iBAAA;ACEF;;ADCA;EACE;IACE,iBAAA;ECEF;EDAA;IACE,iBAAA;ECEF;AACF;ACtBA;EACE,kBAAA;ADwBF;ACtBE;EACE,sBAAA;EACA,aAAA;EACA,aAAA;EACA,YAAA;ADwBJ;;AA1BA;EACE,eAAA;AA6BF;;AA3BA;EACE,sBAAA;AA8BF","sourcesContent":["@import url(//db.onlinewebfonts.com/c/879269be836bf8d970d4ef4fb0e54f42?family=GT+America+Extended);\nh1 {\n  font-family: GT America Extended, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n  font-weight: 400;\n  line-height: 1;\n  letter-spacing: 0.3rem;\n}\n\np {\n  font-family: GT America, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n}\n\n@media (max-width: 963px) {\n  h1 {\n    font-size: 4.6rem;\n  }\n  p {\n    font-size: 4.2rem;\n  }\n}\n","@import \"./core/styles/globals\";\n@import \"./core/styles/variables\";\n@import \"./core/styles/mixins\";\n\n@import \"bootstrap/dist/css/bootstrap.min.css\";\n* {\n  font-size: 16px;\n}\nbody {\n  background-color: #fff;\n}\n",".NotFound {\n  text-align: center;\n\n  .NotFound-header {\n    background-color: #222;\n    height: 150px;\n    padding: 20px;\n    color: white;\n  }\n}\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.i, "h1 {\n  font-family: GT America Extended, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n  font-weight: 400;\n  line-height: 1;\n  letter-spacing: 0.3rem;\n}\n\np,\nh2 {\n  font-family: GT America, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n}\n\n.journals-logo-container {\n  display: flex;\n  align-items: center;\n  padding-top: 3rem;\n}\n.journals-logo-container a {\n  max-width: 20%;\n  max-height: 1rem;\n  margin-right: 0.5rem;\n  display: flex;\n  align-items: center;\n}\n.journals-logo-container a img {\n  max-width: 80%;\n}\n\n@media (max-width: 963px) {\n  h1 {\n    font-size: 4.6rem;\n  }\n  p {\n    font-size: 4.2rem;\n  }\n}\n.NotFound {\n  text-align: center;\n}\n.NotFound .NotFound-header {\n  background-color: #222;\n  height: 150px;\n  padding: 20px;\n  color: white;\n}\n\n* {\n  font-size: 16px;\n}\n\nbody {\n  background-color: #fff;\n}", "",{"version":3,"sources":["webpack://./core/styles/_globals.scss","webpack://./styles.scss","webpack://./core/styles/_mixins.scss"],"names":[],"mappings":"AACA;EACE,8EAAA;EACA,iBAAA;EACA,gBAAA;EACA,cAAA;EACA,sBAAA;ACEF;;ADCA;;EAEE,qEAAA;EACA,iBAAA;ACEF;;ADAA;EACE,aAAA;EACA,mBAAA;EACA,iBAAA;ACGF;ADFE;EACE,cAAA;EACA,gBAAA;EACA,oBAAA;EACA,aAAA;EACA,mBAAA;ACIJ;ADHI;EACE,cAAA;ACKN;;ADAA;EACE;IACE,iBAAA;ECGF;EDDA;IACE,iBAAA;ECGF;AACF;ACvCA;EACE,kBAAA;ADyCF;ACvCE;EACE,sBAAA;EACA,aAAA;EACA,aAAA;EACA,YAAA;ADyCJ;;AA3CA;EACE,eAAA;AA8CF;;AA5CA;EACE,sBAAA;AA+CF","sourcesContent":["@import url(//db.onlinewebfonts.com/c/879269be836bf8d970d4ef4fb0e54f42?family=GT+America+Extended);\nh1 {\n  font-family: GT America Extended, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n  font-weight: 400;\n  line-height: 1;\n  letter-spacing: 0.3rem;\n}\n\np,\nh2 {\n  font-family: GT America, Helvetica Neue, Helvetica, Arial, sans-serif;\n  font-size: 4.2rem;\n}\n.journals-logo-container {\n  display: flex;\n  align-items: center;\n  padding-top: 3rem;\n  a {\n    max-width: 20%;\n    max-height: 1rem;\n    margin-right: 0.5rem;\n    display: flex;\n    align-items: center;\n    img {\n      max-width: 80%;\n    }\n  }\n}\n\n@media (max-width: 963px) {\n  h1 {\n    font-size: 4.6rem;\n  }\n  p {\n    font-size: 4.2rem;\n  }\n}\n","@import \"./core/styles/globals\";\n@import \"./core/styles/variables\";\n@import \"./core/styles/mixins\";\n\n@import \"bootstrap/dist/css/bootstrap.min.css\";\n* {\n  font-size: 16px;\n}\nbody {\n  background-color: #fff;\n}\n",".NotFound {\n  text-align: center;\n\n  .NotFound-header {\n    background-color: #222;\n    height: 150px;\n    padding: 20px;\n    color: white;\n  }\n}\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 

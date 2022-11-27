@@ -4,7 +4,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import "../../styles/site/presentation.scss";
 import nyt from "../../../assets/the-new-york-times-gray.png";
 import cbnc from "../../../assets/cnbc-gray.png";
-import bussiness from "../../../assets/business-insider.png";
+import bussiness from "../../../assets/business-insider-gray.png";
 import forbes from "../../../assets/forbes-gray.png";
 import { Link } from "../../interface/link";
 

@@ -7,9 +7,25 @@ h1 {
   letter-spacing: 0.3rem;
 }
 
-p {
+p,
+h2 {
   font-family: GT America, Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 4.2rem;
+}
+.journals-logo-container {
+  display: flex;
+  align-items: center;
+  padding-top: 3rem;
+  a {
+    max-width: 20%;
+    max-height: 1rem;
+    margin-right: 0.5rem;
+    display: flex;
+    align-items: center;
+    img {
+      max-width: 80%;
+    }
+  }
 }
 
 @media (max-width: 963px) {

@@ -35,28 +35,13 @@
   .container {
     padding: 0;
   }
-  .journals-logo-container {
-    display: flex;
-    align-items: center;
-    padding-top: 3rem;
-    a {
-      max-width: 20%;
-      max-height: 1rem;
-      margin-right: 0.5rem;
-      display: flex;
-      align-items: center;
-      img {
-        max-width: 80%;
-      }
-    }
-  }
 }
 
 @media (max-width: 1200px) {
   .land-image {
     width: 100vw !important;
     position: absolute;
-    bottom: 0;
+    bottom: 100%;
     right: 0;
   }
   .presentation-container {
