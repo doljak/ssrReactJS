@@ -1,7 +1,8 @@
 {
   "noentry": {
     "svg": [
-      "http://localhost:3001/static/media/better_logo.17feb3a4.svg"
+      "http://localhost:3001/static/media/better_logo.17feb3a4.svg",
+      "http://localhost:3001/static/media/svgexport-1.d813281a.svg"
     ]
   }
 }

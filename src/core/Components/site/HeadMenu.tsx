@@ -39,6 +39,14 @@ export default class HeadMenu extends React.Component<{}, {}> {
       </Col>
     );
   }
+  public renderLogin() {
+    return (
+      <Col md={{ span: 4, offset: 4 }}>
+        <Button variant="transparent">Login</Button>
+        <Button variant="primary">Get Started</Button>
+      </Col>
+    );
+  }
   public render() {
     return [
       <div className="header-container">
@@ -47,10 +55,7 @@ export default class HeadMenu extends React.Component<{}, {}> {
             {this.renderLogo()}
             {this.renderDropDown()}
             {this.renderBtn()}
-            <Col md={{ span: 4, offset: 4 }}>
-              <Button variant="transparent">Login</Button>
-              <Button variant="primary">Get Started</Button>
-            </Col>
+            {this.renderLogin()}
           </Row>
         </Container>
       </div>,

@@ -33,7 +33,7 @@ class Home extends React.Component<IProps, IState> {
     return [
       <TopMenu key={0} buttons={this.setButtonsTopMenu()} />,
       <HeadMenu key={1} />,
-      // <Body key={2} />,
+      <Body key={2} />,
     ];
   }
 }

@@ -56,6 +56,12 @@
     }
   }
 
+  .container {
+    .row {
+      justify-content: start;
+    }
+  }
+
   .col-md-4 {
     position: absolute;
     right: 0px;
@@ -73,7 +79,16 @@
 }
 
 @media screen AND (max-width: 560px) {
-  .header-container .col-md-4 {
-    top: 3rem;
+  .header-container {
+    .col-md-4 {
+      top: 3rem;
+      z-index: 10;
+      justify-content: space-evenly;
+    }
+    .container {
+      .row {
+        justify-content: center;
+      }
+    }
   }
 }
