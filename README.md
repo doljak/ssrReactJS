@@ -14,13 +14,13 @@
 
 [x] Desenvolvimento em Typescript
 
-[ ] SEO ainda que genérico.(ok)
+[ ] SEO.
 
 [ ] Salvar as tarefas no local storage
 
 [ ] Testes unitários.
 
-[ ] Testes com selenium.(não feito)
+[ ] Testes com selenium.
 
 ## Descriçã0 da estrutura base
 
@@ -31,6 +31,7 @@
 - Editorconfig (Configurações para IDE)
 - Sass
 - Typescript
+- SSR com Node(Express)
 
 ## Convenções
 
@@ -63,7 +64,7 @@ Requisitos:
 Baixar o repositório
 
 ```bash
-$ git clone "repositório"
+$ git clone https://github.com/doljak/ssrReactJS.git
 ```
 
 Instalar dependencias e entra na pasta do projeto
@@ -77,20 +78,20 @@ $ cd ssrReactJs
 ### local / desenvolvimento
 
 ```bash
-$ sudo npm npm:start:dev
+$ sudo npm run start:dev
 
 ```
 
 ### Rodando Testes Unitários
 
 ```bash
-$ sudo npm npm:start:test
+$ sudo npm run start:test:razzle
 ```
 
 ### build / prod
 
 ```bash
-$ sudo npm npm:build:prod
+$ sudo npm run start:build:prod
 
 ```
 
@@ -99,6 +100,6 @@ $ sudo npm npm:build:prod
 Após o build do projeto:
 
 ```bash
-$ sudo npm npm:prod:ssr
+$ sudo npm run start:prod:ssr
 
 ```
