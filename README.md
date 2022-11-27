@@ -2,27 +2,27 @@
 
 ## Primicias
 
-[x] feito com ReactJS.
+[x] Feito com ReactJS
 
 [x] UI Base React Bootstrap
 
 [x] CSS compilado com Sass
 
-[ ] Sistema Todo(CRUD)
-
-[x] estrutura em SSR com Razzle
+[x] Estrutura em SSR com Razzle
 
 [x] Desenvolvimento em Typescript
 
 [ ] SEO.
 
-[ ] Salvar as tarefas no local storage
+[ ] Salva as tarefas no local storage
 
 [ ] Testes unitários.
 
 [ ] Testes com selenium.
 
-## Descriçã0 da estrutura base
+[ ] Sistema Todo(CRUD)
+
+## Descrição da estrutura base
 
 - Razzle (para estrutura SSR, usando Typescript e React)
 - Jest (Testes unitários)
