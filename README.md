@@ -1,35 +1,26 @@
-# Cripto Teste
+# SSR com Razzle e ReactJs
 
-## Checklist Requisitos
+## Primicias
 
-[] Criar a página seguindo o Layout. (Fazendo)
+[x] feito com ReactJS.
 
-[x] o código deverá ser escrito com ReactJS. (Estrutura feita)
+[x] UI Base React Bootstrap
 
-[x] caso queira usar um framework, pode usar o que preferir. (Estruturado para
-usar Reactbootstrap)
+[x] CSS compilado com Sass
 
-[x] deverá usar um framework de css de sua preferência. (Estruturado para usar
-SASS)
+[ ] Sistema Todo(CRUD)
 
-[x] o app todo deverá estar na rota /todo. (Estrutura feita)
+[x] estrutura em SSR com Razzle
 
-[] o app deverá ser possivel adicionar, remover tarefas.(Fazendo)
+[x] Desenvolvimento em Typescript
 
-[x] o arquivo README.md deve conter as instruções para rodar o projeto em
-ambiente de desenvolvimento.(Feito)
+[ ] SEO ainda que genérico.(ok)
 
-[x] a home deverá carregar mesmo com o javscript desabilitado pelo navegador do
-cliente.(Estrututa SSR feita)
+[ ] Salvar as tarefas no local storage
 
-### Extras
+[ ] Testes unitários.
 
-[x] Desenvolver em Typescript.(ok)
-
-[x] SEO ainda que genérico.(ok) [] opção para edição de tarefas.(para fazer) []
-salvar as tarefas no local storage.(para fazer) [x] testes unitários.(ok) []
-testes com selenium.(não feito) [x] numeclatura dos commits organizados e
-padronizados.(ok)
+[ ] Testes com selenium.(não feito)
 
 ## Descriçã0 da estrutura base
 
